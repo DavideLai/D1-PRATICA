@@ -1,0 +1,54 @@
+
+.main{
+    margin: auto;
+    width: 700px;
+}
+
+.parte-alta{
+    text-align: center;
+}
+
+.centro{
+    text-align: center;
+}
+
+#Logo{
+padding: 20px;
+height: 40px;
+}
+
+
+.barra{
+    margin: auto;
+    border-top: 2px solid rgb(218, 165, 68);
+    padding: 15px;
+    background-color: rgb(255, 251, 225);
+    text-align: center;
+}
+
+h1{
+    padding: 20px;
+}
+
+#immagine-centrale{
+    margin: auto;
+    width: 700px;
+    height: 700px;
+    border-radius: 2%;
+}
+
+figcaption{
+    color: rgb(190, 183, 183);
+    text-align: center;
+}
+
+#featured-in{
+    border-left-style: solid;
+    border-left-width: 2px;
+    border-left-color: orange;
+    color: rgb(171, 26, 26);
+   padding: 8px;
+}
+
+
+
